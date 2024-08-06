@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+.head{
+    border:2px solid black;
+    
+    background-color: rgb(85, 154, 154);
+    text-align: center;
+
+
+}
+.para{
+    border :20px solid rebeccapurple;
+    background-color: darkseagreen;
+}
+.label{
+border:2px solid black;
+border-width: 3px;
+height: 100px;
+background-color: rgb(84, 74, 106);
+
+
+}
